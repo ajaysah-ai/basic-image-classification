@@ -1,3 +1,5 @@
+# 🚀 Live Demo: https://frontend-one-phi-phu01sjl9o.vercel.app
+
 # 🖼️ Basic Image Classification using CNN + FastAPI + React
 
 An end-to-end Computer Vision project that classifies images into 10 categories using a Convolutional Neural Network (CNN) trained on the CIFAR-10 dataset.
